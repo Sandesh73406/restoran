@@ -3,8 +3,6 @@
     --primary: #FEA116;
     --light: #F1F8FF;
     --dark: #0F172B;
-}.checked {
-  color: orange;
 }
 
 .ff-secondary {
@@ -14,6 +12,9 @@
 .fw-medium {
     font-weight: 600 !important;
 }
+.checked {
+    color: orange;
+  }
 
 .fw-semi-bold {
     font-weight: 700 !important;
